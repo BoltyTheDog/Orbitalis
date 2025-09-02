@@ -8,7 +8,7 @@ Using a Raspberry Pi with internet access, magnetic levitation, and an OLED disp
 ## Documentation
 
 Detailed design notes, model schematics, and development plans are maintained in a central Google Doc:  
-[Main Project Documentation](https://docs.google.com/document/d/your-doc-id-here)
+[Main Project Documentation]([https://docs.google.com/document/d/your-doc-id-here](https://docs.google.com/document/d/1Cc9fAnTf5s1iiGWvLphZYbd0xNSVu8OE95tPFVpwE6s/edit?usp=sharing))
 
 ---
 
