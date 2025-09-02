@@ -1,4 +1,6 @@
 # Orbitaliss
+![Orbitaliss Icon](./output.gif)
+
 
 Orbitaliss is a physical satellite tracker and visualizer that brings orbital mechanics into the real world.  
 Using a Raspberry Pi with internet access, magnetic levitation, and an OLED display, Orbitaliss moves a levitating satellite model across a 3D globe.
